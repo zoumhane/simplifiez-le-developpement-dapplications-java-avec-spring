@@ -7,7 +7,7 @@ import org.glassfish.jersey.server.ResourceConfig;
 
 /**
  * Classe de configuration de l'application REST
- *
+ *pécifique au framework Jersey pour l'implémetation des webservices REST avec JAX-RS.
  * @author lgu
  */
 @ApplicationPath("/")
